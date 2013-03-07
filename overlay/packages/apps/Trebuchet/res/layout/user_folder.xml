@@ -7,7 +7,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:launcher="http://schemas.android.com/apk/res/com.cyanogenmod.trebuchet">
     <com.cyanogenmod.trebuchet.CellLayout
- android:id="@id/folder_content"
+ android:id="@+id/folder_content"
  android:paddingLeft="@dimen/folder_padding"
  android:paddingTop="@dimen/folder_padding"
  android:paddingRight="@dimen/folder_padding"
@@ -25,7 +25,7 @@
  android:textColor="#ff33b5e5"
  android:textColorHighlight="#ff333333"
  android:gravity="center_horizontal"
- android:id="@id/folder_name"
+ android:id="@+id/folder_name"
  android:background="#00000000"
  android:paddingTop="-1.0dip"
  android:paddingBottom="-1.0dip"
