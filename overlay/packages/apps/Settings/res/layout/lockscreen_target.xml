@@ -32,7 +32,7 @@
  prvandroid:outerRingDrawable="@*android:drawable/ic_menu_back"
  prvandroid:pointDrawable="@*android:drawable/ic_media_group_collapse"
  prvandroid:glowRadius="@*android:dimen/glowpadview_inner_radius"
- prvandroid:firstItemOffset="@17694790"
+ prvandroid:firstItemOffset="@*android:integer/kg_glowpad_rotation_offset"
  prvandroid:magneticTargets="false"
  prvandroid:allowScaling="true"
  prvandroid:targetDrawables="@*android:array/lockscreen_targets_unlock_only"
